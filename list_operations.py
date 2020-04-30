@@ -2,15 +2,9 @@
 
 
 def head(input_list):
-    """Return the first item of the input list.
+    """Return the first item of the input list."""
 
-    For example:
-
-      >>> head(['Jan', 'Feb', 'Mar'])
-      'Jan'
-    """
-
-    return None
+    return input_list[0]
 
 
 def tail(input_list):
