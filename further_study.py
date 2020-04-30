@@ -17,7 +17,7 @@ def custom_len(input_list):
 
     """
 
-    return 0
+    return len(custom_len)
 
 
 # For the next four exercises, you'll need to be clever and think about ways
